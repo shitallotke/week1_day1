@@ -11,12 +11,12 @@ public class Mobile {
 	public static void main(String[] args) {
 		System.out.println("This is my Mobile");
 		
-		makeCall();// calling static method of class
+		/*makeCall();// calling static method of class
 		
 		Mobile obj = new Mobile();
-		obj.sendMsg();// calling Instance method of class
+		obj.sendMsg();// calling Instance method of class */
 		
-		makeCall();
+		
 	}
 
 }
